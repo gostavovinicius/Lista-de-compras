@@ -108,6 +108,7 @@ form {
 
 .container-nome-compra {
     display: flex;
+    align-items: center;
 }
 
 ul {
@@ -155,4 +156,5 @@ ul {
 .botao-acao {
     background-color: transparent;
     border: none;
+    margin-left: 8px;
 }
